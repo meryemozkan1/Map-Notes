@@ -14,11 +14,11 @@ Bu depo, kullanıcıların belirli konumlara notlar eklemesini ve bu notları ha
 
 # Kullanılar Teknolojiler <br>
 
--HTML5 <br>
+- HTML5 <br>
 
--Css <br>
+- Css <br>
 
--JavaScript <br>
+- JavaScript <br>
 
 # Ekran Görüntüsü <br>
 
